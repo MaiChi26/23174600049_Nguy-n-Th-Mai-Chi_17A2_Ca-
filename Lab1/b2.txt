@@ -1,0 +1,8 @@
+PS D:\Thực tập lập trình\LAB1> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB1/bai2.py"
+nhập ngày sinh của sinh viên: 26
+nhập tên sách: hollywood
+nhập mã sinh viên: 2317460049
+nhập tên tác giả theo sách đã chọn: kalibari
+nhập năm xuất bản theo sách đã chọn: 2001
+Thư viện DHKTKTCN có 26 sách hollywood với mã số 2317460049.Cuốn sách của tác giả kalibari được xuất bản vào năm 2001.
+PS D:\Thực tập lập trình\LAB1> 

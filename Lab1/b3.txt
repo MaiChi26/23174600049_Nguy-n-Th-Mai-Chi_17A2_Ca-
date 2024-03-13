@@ -1,0 +1,5 @@
+PS D:\Thực tập lập trình\LAB1> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB1/bai3.py"
+số tiền có được sau 5 năm:  13382.255776
+số tiền có được sau 10 năm:  17908.476965
+tỷ lệ tăng trưởng:  0.452622
+PS D:\Thực tập lập trình\LAB1>

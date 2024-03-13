@@ -1,0 +1,4 @@
+PS D:\Thực tập lập trình\LAB1> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB1/bai8.py"
+nhập các giá trị: 3 6
+giá trị của biểu thức là: -10.27
+PS D:\Thực tập lập trình\LAB1> 

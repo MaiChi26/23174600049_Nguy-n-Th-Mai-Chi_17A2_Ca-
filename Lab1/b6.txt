@@ -1,0 +1,8 @@
+PS D:\Thực tập lập trình\LAB1> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB1/bai6.py"
+nhập các số: 3 4 6 8
+phép cộng 2 vecto là: (9.0, 12.0)
+phép trừ 2 vecto là: (-3.0, -4.0)
+độ dài vecto a: 5.0
+độ dài vecto b: 10.0
+Cos giữa 2 vecto = 1.00 
+PS D:\Thực tập lập trình\LAB1> 

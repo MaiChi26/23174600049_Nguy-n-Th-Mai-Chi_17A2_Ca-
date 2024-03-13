@@ -1,0 +1,4 @@
+PS D:\Thực tập lập trình\LAB1> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB1/bai5.py"
+nhập số giờ sử dụng:3
+tổng số tiền điện phải trả cho việc sử dụng máy lọc không khí 49500.0
+PS D:\Thực tập lập trình\LAB1> 

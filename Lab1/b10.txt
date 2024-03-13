@@ -1,0 +1,6 @@
+PS D:\Thực tập lập trình\LAB1> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB1/bai10.py"
+Nhập số lượng bi cần rút: 12
+Xác xuất rút ra tát cả đều là bi đỏ: 0.0000
+Xác suất rút ra ít nhất 1 viên là bi xanh: 0.9862
+Xác suất rút ra đúng 2 viên bi vàng: 0.0036
+PS D:\Thực tập lập trình\LAB1> 

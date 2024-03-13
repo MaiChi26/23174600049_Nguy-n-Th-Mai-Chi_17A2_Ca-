@@ -1,0 +1,7 @@
+PS D:\Thực tập lập trình\LAB1> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB1/bai9.py"
+nhập các giá trị:2 5 7 9 2 1 3 4
+tọa độ trung điểm của cạnh MN là: (4.5, 7.0)
+tọa độ trung điểm của cạnh NP là: (4.5, 5.0)
+tọa độ trung điểm của cạnh PQ là: (2.5, 2.5)
+tọa độ trung điểm của cạnh QM là: (2.5, 4.5)
+PS D:\Thực tập lập trình\LAB1> 

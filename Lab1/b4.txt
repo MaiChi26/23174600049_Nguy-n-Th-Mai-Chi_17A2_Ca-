@@ -1,0 +1,6 @@
+PS D:\Thực tập lập trình\LAB1> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB1/bai4.py"
+nhập các số đo: 5, 8
+diện tích xung quanh hình chóp tứ giác đều: 80.0
+diện tích toàn phần  hình chóp tứ giác đều: 105.0
+thể tích hình chóp tứ giác đều: 66.66666666666666
+PS D:\Thực tập lập trình\LAB1> 
