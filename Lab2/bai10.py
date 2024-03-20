@@ -1,4 +1,4 @@
-the_loai = input("Chọn thể loại phim (1-5): ")
+the_loai = input("Chọn thể loại phim : ")
 thoi_gian = input("Chọn thời gian xem phim (sáng, trưa, chiều, tối): ")
 if the_loai ==  'hành động'or the_loai == 'hài hước':
     if thoi_gian == "sáng" or thoi_gian == "trưa" or thoi_gian == "chiều" or thoi_gian == "tối":
