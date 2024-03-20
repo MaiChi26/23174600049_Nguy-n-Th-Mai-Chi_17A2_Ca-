@@ -1,0 +1,10 @@
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai4.py"
+nhập số điểm của học sinh:4
+Điểm kém!!
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai4.py"
+nhập số điểm của học sinh:5.5
+Điểm trung bình!!
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai4.py"
+nhập số điểm của học sinh:10
+Điểm tốt!!
+PS D:\Thực tập lập trình\LAB2.h> 

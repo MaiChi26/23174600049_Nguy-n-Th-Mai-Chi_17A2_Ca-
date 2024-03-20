@@ -1,0 +1,12 @@
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai7.py"
+nhập chiều cao:158
+nhập cân nặng:45
+chỉ số BMI là: 0.001802595737862522
+chỉ số BMI hiển thị 'Gầy'!!
+PS D:\Thực tập lập trình\LAB2.h> 
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai7.py"
+nhập chiều cao:1.60
+nhập cân nặng:48
+chỉ số BMI là: 18.749999999999996
+chỉ số BMI hiển thị 'Bình thường'!!
+PS D:\Thực tập lập trình\LAB2.h> 

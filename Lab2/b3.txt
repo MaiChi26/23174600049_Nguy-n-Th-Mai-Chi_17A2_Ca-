@@ -1,0 +1,8 @@
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai3.py"
+Nhập số nguyên có 3 chữ số: 567
+Số 567 đọc là: Five hundred sixty seven
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai3.py"
+Nhập số nguyên có 3 chữ số: 479
+Số 479 đọc là: Four hundred seventy nine
+PS D:\Thực tập lập trình\LAB2.h> 
+

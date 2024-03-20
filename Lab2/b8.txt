@@ -1,0 +1,6 @@
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai8.py"
+Nhập hệ số góc và hệ số tự do của đường thẳng thứ nhất: 3 9
+Nhập hệ số góc và hệ số tự do của đường thẳng thứ hai: 4 2
+Hai đường thẳng cắt nhau
+PS D:\Thực tập lập trình\LAB2.h> 
+

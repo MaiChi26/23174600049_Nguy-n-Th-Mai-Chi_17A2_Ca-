@@ -1,0 +1,13 @@
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai1.py"
+nhập giá trị của a:5
+nhập giá trị của b:4
+phương trình có nghiệm duy nhất: x = -0.8
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai1.py"
+nhập giá trị của a:0
+nhập giá trị của b:0
+phương trình có vô số nghiệm!!!
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai1.py"
+nhập giá trị của a:0
+nhập giá trị của b:6
+phương trình vô nghiệm!!!
+PS D:\Thực tập lập trình\LAB2.h> 

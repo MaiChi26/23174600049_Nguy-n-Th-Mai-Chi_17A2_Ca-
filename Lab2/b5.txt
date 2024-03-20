@@ -1,0 +1,8 @@
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai5.py"
+nhập số lượng người đi xem phim:2
+tổng tiền phải trả với 2 người là: 228000.0 đồng
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai5.py"
+nhập số lượng người đi xem phim:6
+tổng tiền phải trả với 6 người là: 648000.0 đồng
+PS D:\Thực tập lập trình\LAB2.h> 
+

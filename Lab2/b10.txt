@@ -1,0 +1,21 @@
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai10.py"
+Danh sách các thể loại phim:
+1. Hành động
+2. Kinh dị
+3. Tình cảm
+4. Hài hước
+5. Hoạt hình
+Chọn thể loại phim (1-5): 2
+Chọn thời gian xem phim (sáng, trưa, chiều, tối): sáng 
+Không có suất chiếu cho phim Kinh dị vào buổi sáng, trưa và chiều.
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai10.py"
+Danh sách các thể loại phim:
+1. Hành động
+2. Kinh dị
+3. Tình cảm
+4. Hài hước
+5. Hoạt hình
+Chọn thể loại phim (1-5): 5
+Chọn thời gian xem phim (sáng, trưa, chiều, tối): trưa
+Thời gian chiếu phim Hoạt hình: trưa.
+PS D:\Thực tập lập trình\LAB2.h> 

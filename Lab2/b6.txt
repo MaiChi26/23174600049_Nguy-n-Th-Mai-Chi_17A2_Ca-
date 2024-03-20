@@ -1,0 +1,4 @@
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai6.py"
+Nhập các số a,b,c: 6 9 7
+Số lớn thứ hai là: 7
+PS D:\Thực tập lập trình\LAB2.h> 

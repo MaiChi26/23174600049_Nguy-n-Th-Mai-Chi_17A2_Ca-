@@ -1,0 +1,6 @@
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/Lab2/bai9.py"
+Nhập hệ số góc và hệ số tự do của đường thẳng thứ nhất:  4 8
+Nhập tọa độ tâm của đường tròn (x , y): 3 9
+Nhập bán kính của đường tròn: 4
+Đường thẳng cắt đường tròn.
+PS D:\Thực tập lập trình\LAB2.h> 

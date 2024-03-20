@@ -1,0 +1,7 @@
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/bai3.py"
+Nhập vào số nguyên: 3478
+Chữ số hàng nghìn là: 3
+PS D:\Thực tập lập trình\LAB2.h> & C:/Users/user/AppData/Local/Programs/Python/Python36/python.exe "d:/Thực tập lập trình/LAB2.h/bai3.py"
+Nhập vào số nguyên: 347
+Số không có chữ số hàng nghìn
+PS D:\Thực tập lập trình\LAB2.h> 
