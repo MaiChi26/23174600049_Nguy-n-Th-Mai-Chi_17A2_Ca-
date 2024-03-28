@@ -1,6 +1,6 @@
 chieu_cao = float(input("nhập chiều cao:"))
 can_nang = float(input("nhập cân nặng:"))
-BMI = can_nang/((chieu_cao)**2)
+BMI = can_nang/((chieu_cao)*(chieu_cao))
 print("chỉ số BMI là:",BMI)
 if BMI<18.5:
     print("chỉ số BMI hiển thị 'Gầy'!!")
